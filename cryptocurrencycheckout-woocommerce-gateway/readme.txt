@@ -120,6 +120,7 @@ Free! - We never charge stores or their customers any transaction, maintenance o
 * Beldex (BDX)
 * Kaspa (KAS)
 * Maria (MARIA)
+* Paprikacoin (PAPRY)
 
 
 
